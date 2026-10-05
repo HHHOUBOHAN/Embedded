@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
+                "file": "项目/基础电路/电源入口防护电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "引脚分布&功能表"
+              "title": "电源入口防护电路"
+            }
+          },
+          {
+            "id": "9fe9e8ff87fb3d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FreeRTOS/C语言基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C语言基础"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,9 +200,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
+                "file": "FreeRTOS/C语言基础.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -206,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,11 +238,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69cbe45415519a5a",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/原理图设计.md",
+    "image/Pasted image 20261004174714.png",
+    "image/Pasted image 20261004174554.png",
+    "image/Pasted image 20261004173824.png",
+    "image/Pasted image 20261004173053.png",
+    "image/Pasted image 20261004170658.png",
+    "image/Pasted image 20261004162821.png",
+    "image/Pasted image 20261004162549.png",
+    "image/Pasted image 20261004155924.png",
+    "image/Pasted image 20261004155714.png",
+    "FreeRTOS/FreeRTOS内核移植.md",
+    "FreeRTOS/C语言基础.md",
+    "image/Pasted image 20261004151859.png",
+    "image/Pasted image 20261004144634.png",
+    "FreeRTOS/FreeRTOS简介.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/模块.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/原理图设计.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/方案.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/智能水罐 MQTT 联网与服务器部署指南.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/项目方案.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/STM32F103C8T6 完整 48 引脚.md",
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/软件部分编写.md",
+    "项目/基础电路/电源入口防护电路.md",
+    "FreeRTOS/FreeRTOS.md",
+    "FreeRTOS/课程相关资料.md",
+    "新建 文本文档.txt",
     "项目/基础电路/DCDC.md",
     "PCB/笔记/大师篇/产品设计流程.md",
     "PCB/笔记/大师篇/购买注意事项.md",
@@ -237,32 +274,10 @@
     "PCB/笔记/基础篇/PCB设计基础.md",
     "PCB/笔记/基础篇/51单片机.md",
     "PCB/笔记/经验.md",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/方案.md",
-    "项目/基础电路/电源入口防护电路.md",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
-    "FreeRTOS/FreeRTOS简介.md",
-    "image/Pasted image 20260928144835.png",
-    "image/Pasted image 20260928144322.png",
-    "image/Pasted image 20260928142918.png",
-    "image/Pasted image 20260928142617.png",
-    "image/Pasted image 20260928142610.png",
-    "image/Pasted image 20260927220348.png",
-    "image/Pasted image 20260927220303.png",
-    "image/Pasted image 20260927220124.png",
-    "FreeRTOS/课程相关资料.md",
-    "FreeRTOS/FreeRTOS.md",
-    "image/Pasted image 20260926184631.png",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/STM32F103C8T6 完整 48 引脚.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/硬件.md",
     "硬件/电路/复位电路.md",
-    "image/Pasted image 20260922184609.png",
     "硬件/电子元器件/晶振.md",
     "硬件/电路",
-    "硬件/未命名.md",
-    "硬件/电子元器件/MOS管.md",
-    "硬件/电子元器件/电子元器件.md",
-    "硬件/电路原理/硬件电路.md",
-    "硬件/电路原理/启动模式配置电路.md",
     "项目/基础电路",
     "硬件/数电/数电笔记",
     "QT&LVGL",
@@ -270,7 +285,6 @@
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/通信",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/软件",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/硬件",
-    "硬件/模电"
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/硬件"
   ]
 }
