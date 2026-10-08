@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeRTOS/C语言基础.md",
+                "file": "PCB/笔记/四层PCB/四层板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言基础"
+              "title": "四层板"
+            }
+          },
+          {
+            "id": "20b168aa3296f10b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FreeRTOS/FreeRTOS参考手册.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FreeRTOS参考手册"
             }
           }
         ]
@@ -55,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "[\"date\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PCB/笔记/四层PCB/四层板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,8 +170,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FreeRTOS/C语言基础.md",
-                "followCursor": false,
+                "file": "PCB/笔记/四层PCB/四层板.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -197,22 +210,28 @@
   },
   "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "image/Pasted image 20261006125715.png",
-    "image/Pasted image 20261006125535.png",
-    "image/Pasted image 20261006122501.png",
-    "image/Pasted image 20261006121933.png",
-    "image/Pasted image 20261006121615.png",
+    "PCB/笔记/经验.md",
+    "PCB/笔记/四层PCB/四层板.md",
+    "PCB/笔记/四层PCB",
+    "PCB/笔记/大师篇/产品设计流程.md",
+    "FreeRTOS/任务管理.md",
+    "image/Pasted image 20261006173207.png",
+    "image/Pasted image 20261006171439.png",
+    "image/Pasted image 20261006171400.png",
+    "image/Pasted image 20261006161944.png",
+    "image/Pasted image 20261006161214.png",
+    "image/Pasted image 20261006153717.png",
+    "image/Pasted image 20261006153655.png",
+    "image/Pasted image 20261006153650.png",
+    "image/Pasted image 20261006153219.png",
+    "image/Pasted image 20261006152541.png",
+    "FreeRTOS/FreeRTOS参考手册.pdf",
     "FreeRTOS/FreeRTOS内核移植.md",
+    "FreeRTOS/课程相关资料.md",
+    "FreeRTOS/C语言基础.md",
     "FreeRTOS/FreeRTOS简介.md",
     "项目/基础电路/DCDC.md",
     "项目/基础电路/电源入口防护电路.md",
-    "FreeRTOS/C语言基础.md",
-    "image/Pasted image 20261005163900.png",
-    "image/Pasted image 20261005163600.png",
-    "image/Pasted image 20261005163358.png",
-    "image/Pasted image 20261005162919.png",
-    "image/Pasted image 20261005144536.png",
-    "image/Pasted image 20261005120945.png",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/模块.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/原理图设计.md",
@@ -222,26 +241,20 @@
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/STM32F103C8T6 完整 48 引脚.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/软件部分编写.md",
     "FreeRTOS/FreeRTOS.md",
-    "FreeRTOS/课程相关资料.md",
     "新建 文本文档.txt",
-    "PCB/笔记/大师篇/产品设计流程.md",
     "PCB/笔记/大师篇/购买注意事项.md",
     "PCB/笔记/大师篇/STM32F103C8T6.md",
     "PCB/笔记/基础篇/入门.md",
     "PCB/笔记/基础篇/PCB设计基础.md",
     "PCB/笔记/基础篇/51单片机.md",
-    "PCB/笔记/经验.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/硬件.md",
     "硬件/电路/复位电路.md",
-    "硬件/电子元器件/晶振.md",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
     "QT&LVGL",
     "焊接",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/通信",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/软件",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/硬件"
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/通信"
   ]
 }
