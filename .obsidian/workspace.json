@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/电路/DCDC模块设计.md",
+                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DCDC模块设计"
+              "title": "声源跟踪小车工作原理"
             }
           },
           {
@@ -208,10 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
-    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+    "image/Pasted image 20261009123742.png",
+    "image/Pasted image 20261009104526.png",
+    "image/Pasted image 20261009103812.png",
     "硬件/电路/DCDC模块设计.md",
+    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "image/Pasted image 20261008205246.png",
     "image/Pasted image 20261008204050.png",
     "image/Pasted image 20261008202905.png",
@@ -225,8 +228,6 @@
     "PCB/笔记/四层PCB",
     "PCB/笔记/大师篇/产品设计流程.md",
     "FreeRTOS/任务管理.md",
-    "image/Pasted image 20261006173207.png",
-    "image/Pasted image 20261006171439.png",
     "FreeRTOS/FreeRTOS参考手册.pdf",
     "FreeRTOS/FreeRTOS内核移植.md",
     "FreeRTOS/课程相关资料.md",
@@ -248,7 +249,6 @@
     "PCB/笔记/大师篇/STM32F103C8T6.md",
     "PCB/笔记/基础篇/入门.md",
     "PCB/笔记/基础篇/PCB设计基础.md",
-    "PCB/笔记/基础篇/51单片机.md",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
