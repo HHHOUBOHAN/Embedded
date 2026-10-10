@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/电路/DCDC模块设计.md",
+                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/电路/DCDC模块设计.md",
+                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -208,27 +208,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79c89c64b8a0a18f",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
+    "image/Pasted image 20261009141629.png",
+    "硬件/电路原理/压降，电压.md",
+    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+    "image/Pasted image 20261009134635.png",
+    "image/Pasted image 20261009133935.png",
+    "硬件/模电/运算放大器.md",
+    "FreeRTOS/FreeRTOS参考手册.pdf",
+    "image/Pasted image 20261009131323.png",
+    "image/Pasted image 20261009131307.png",
+    "image/Pasted image 20261009130147.png",
+    "image/Pasted image 20261009125029.png",
+    "image/Pasted image 20261009124621.png",
     "image/Pasted image 20261009123742.png",
     "image/Pasted image 20261009104526.png",
     "image/Pasted image 20261009103812.png",
     "硬件/电路/DCDC模块设计.md",
-    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "image/Pasted image 20261008205246.png",
-    "image/Pasted image 20261008204050.png",
-    "image/Pasted image 20261008202905.png",
     "PCB/笔记/四层PCB/四层板.md",
-    "image/Pasted image 20261008195033.png",
-    "image/Pasted image 20261008193257.png",
-    "image/Pasted image 20261008185407.png",
-    "image/Pasted image 20261008185347.png",
-    "image/Pasted image 20261008182605.png",
     "PCB/笔记/经验.md",
     "PCB/笔记/四层PCB",
     "PCB/笔记/大师篇/产品设计流程.md",
     "FreeRTOS/任务管理.md",
-    "FreeRTOS/FreeRTOS参考手册.pdf",
     "FreeRTOS/FreeRTOS内核移植.md",
     "FreeRTOS/课程相关资料.md",
     "FreeRTOS/C语言基础.md",
@@ -247,8 +249,6 @@
     "新建 文本文档.txt",
     "PCB/笔记/大师篇/购买注意事项.md",
     "PCB/笔记/大师篇/STM32F103C8T6.md",
-    "PCB/笔记/基础篇/入门.md",
-    "PCB/笔记/基础篇/PCB设计基础.md",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
