@@ -222,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
+    "image/Pasted image 20261011111043.png",
+    "image/Pasted image 20261011110925.png",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/水泵水位问题.md",
     "未命名.md",
     "FreeRTOS/FreeRTOS参考手册.pdf",
@@ -241,7 +243,6 @@
     "FreeRTOS/FreeRTOS简介.md",
     "FreeRTOS/FreeRTOS内核移植.md",
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "image/Pasted image 20261009141629.png",
     "硬件/电路原理/压降，电压.md",
     "硬件/模电/运算放大器.md",
     "硬件/电路/DCDC模块设计.md",
@@ -262,7 +263,6 @@
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/软件部分编写.md",
     "FreeRTOS/FreeRTOS.md",
     "新建 文本文档.txt",
-    "PCB/笔记/大师篇/购买注意事项.md",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
