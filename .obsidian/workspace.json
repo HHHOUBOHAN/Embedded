@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+                "file": "FreeRTOS/任务管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "声源跟踪小车工作原理"
+              "title": "任务管理"
             }
           },
           {
@@ -31,6 +31,20 @@
               },
               "icon": "lucide-file-text",
               "title": "FreeRTOS参考手册"
+            }
+          },
+          {
+            "id": "b38cbd46042a37c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/基于4G通信的智能水罐水位监测与水泵控制系统/水泵水位问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "水泵水位问题"
             }
           }
         ]
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+                "file": "FreeRTOS/任务管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+                "file": "FreeRTOS/任务管理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -210,31 +224,32 @@
   },
   "active": "903babad9257cc05",
   "lastOpenFiles": [
+    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/水泵水位问题.md",
+    "未命名.md",
+    "FreeRTOS/FreeRTOS参考手册.pdf",
+    "FreeRTOS/任务管理.md",
+    "image/Pasted image 20261010151550.png",
+    "image/Pasted image 20261010151545.png",
+    "image/Pasted image 20261010145804.png",
+    "image/Pasted image 20261010145227.png",
+    "image/Pasted image 20261010144457.png",
+    "image/Pasted image 20261010140730.png",
+    "image/Pasted image 20261010140709.png",
+    "image/Pasted image 20261010135946.png",
+    "image/Pasted image 20261010135928.png",
+    "FreeRTOS/C语言基础.md",
+    "FreeRTOS/FreeRTOS简介.md",
+    "FreeRTOS/FreeRTOS内核移植.md",
+    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "image/Pasted image 20261009141629.png",
     "硬件/电路原理/压降，电压.md",
-    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "image/Pasted image 20261009134635.png",
-    "image/Pasted image 20261009133935.png",
     "硬件/模电/运算放大器.md",
-    "FreeRTOS/FreeRTOS参考手册.pdf",
-    "image/Pasted image 20261009131323.png",
-    "image/Pasted image 20261009131307.png",
-    "image/Pasted image 20261009130147.png",
-    "image/Pasted image 20261009125029.png",
-    "image/Pasted image 20261009124621.png",
-    "image/Pasted image 20261009123742.png",
-    "image/Pasted image 20261009104526.png",
-    "image/Pasted image 20261009103812.png",
     "硬件/电路/DCDC模块设计.md",
     "PCB/笔记/四层PCB/四层板.md",
     "PCB/笔记/经验.md",
     "PCB/笔记/四层PCB",
     "PCB/笔记/大师篇/产品设计流程.md",
-    "FreeRTOS/任务管理.md",
-    "FreeRTOS/FreeRTOS内核移植.md",
     "FreeRTOS/课程相关资料.md",
-    "FreeRTOS/C语言基础.md",
-    "FreeRTOS/FreeRTOS简介.md",
     "项目/基础电路/DCDC.md",
     "项目/基础电路/电源入口防护电路.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
@@ -248,7 +263,6 @@
     "FreeRTOS/FreeRTOS.md",
     "新建 文本文档.txt",
     "PCB/笔记/大师篇/购买注意事项.md",
-    "PCB/笔记/大师篇/STM32F103C8T6.md",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
