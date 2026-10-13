@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeRTOS/任务管理.md",
+                "file": "项目/最小系统板/BOOT电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "任务管理"
+              "title": "BOOT电路"
             }
           },
           {
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +222,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79c89c64b8a0a18f",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
+    "项目/最小系统板/5V转3V3电路.md",
+    "项目/最小系统板/BOOT电路.md",
+    "项目/最小系统板/单片机类教学大纲(1).docx",
+    "FreeRTOS/任务管理.md",
+    "项目/最小系统板/单片机类教学大纲(1) 1.docx",
+    "项目/最小系统板",
     "image/Pasted image 20261011111043.png",
     "image/Pasted image 20261011110925.png",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/水泵水位问题.md",
     "未命名.md",
     "FreeRTOS/FreeRTOS参考手册.pdf",
-    "FreeRTOS/任务管理.md",
     "image/Pasted image 20261010151550.png",
     "image/Pasted image 20261010151545.png",
     "image/Pasted image 20261010145804.png",
@@ -238,7 +243,6 @@
     "image/Pasted image 20261010140730.png",
     "image/Pasted image 20261010140709.png",
     "image/Pasted image 20261010135946.png",
-    "image/Pasted image 20261010135928.png",
     "FreeRTOS/C语言基础.md",
     "FreeRTOS/FreeRTOS简介.md",
     "FreeRTOS/FreeRTOS内核移植.md",
@@ -261,14 +265,10 @@
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/项目方案.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/STM32F103C8T6 完整 48 引脚.md",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案/软件部分编写.md",
-    "FreeRTOS/FreeRTOS.md",
     "新建 文本文档.txt",
     "硬件/电路",
     "项目/基础电路",
     "硬件/数电/数电笔记",
-    "QT&LVGL",
-    "焊接",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/项目方案",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/通信"
+    "QT&LVGL"
   ]
 }
