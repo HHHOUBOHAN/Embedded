@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/原理图库创建.md",
+                "file": "PCB/笔记/四层PCB/原理图绘制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原理图库创建"
+              "title": "原理图绘制"
             }
           },
           {
@@ -225,7 +225,7 @@
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "PCB/笔记/四层PCB/原理图库创建.md",
+    "PCB/笔记/四层PCB/原理图绘制.md",
     "image/Pasted image 20261014195310.png",
     "image/Pasted image 20261014195225.png",
     "image/Pasted image 20261014195132.png",
