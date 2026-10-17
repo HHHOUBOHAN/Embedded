@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/原理图绘制.md",
+                "file": "焊接/元器件收纳.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原理图绘制"
+              "title": "元器件收纳"
             }
           },
           {
@@ -224,8 +224,11 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
-    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
+    "image/Pasted image 20261017104609.png",
+    "PCB/笔记/快捷键规则.md",
+    "焊接/元器件收纳.md",
     "PCB/笔记/四层PCB/原理图绘制.md",
+    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "image/Pasted image 20261014195310.png",
     "image/Pasted image 20261014195225.png",
     "image/Pasted image 20261014195132.png",
@@ -263,9 +266,6 @@
     "PCB/笔记/四层PCB",
     "PCB/笔记/大师篇/产品设计流程.md",
     "FreeRTOS/课程相关资料.md",
-    "项目/基础电路/DCDC.md",
-    "项目/基础电路/电源入口防护电路.md",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/引脚分布&功能表.md",
     "新建 文本文档.txt",
     "硬件/电路",
     "项目/基础电路",
