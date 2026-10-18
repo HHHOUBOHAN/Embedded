@@ -1,0 +1,46 @@
+{
+  "locale": "zh",
+  "imagePathTemplate": "attachments",
+  "imagePathBase": "note",
+  "supportedExtensions": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "bmp",
+    "svg",
+    "webp",
+    "ico",
+    "tiff",
+    "avif"
+  ],
+  "localManagementMode": "managed",
+  "managedPasteReferenceFormat": "markdown",
+  "compressManagedPasteLocal": false,
+  "compressBeforeUpload": false,
+  "compressQuality": 80,
+  "thumbnailSize": 200,
+  "localImageBrowserSort": {
+    "field": "name",
+    "order": "asc"
+  },
+  "remoteImageBrowserSort": {
+    "field": "key",
+    "order": "asc"
+  },
+  "imageNamingTemplate": "image-{timestamp}",
+  "promptImageName": false,
+  "hostingConfigs": [],
+  "defaultHostingId": "",
+  "uploadPathTemplate": "images/{year}/{month}/{hash}.{ext}",
+  "autoReplaceAfterUpload": false,
+  "customReferenceTemplate": "",
+  "reorganizeConvertFormat": true,
+  "skipWikiRefsOnReorganize": true,
+  "enableImageBrowser": true,
+  "managedAutoUploadOnPaste": false,
+  "delegatedAutoUploadOnPaste": false,
+  "managedKeepLocalCopy": false,
+  "delegatedKeepLocalCopy": false,
+  "remoteDeleteHistory": []
+}
