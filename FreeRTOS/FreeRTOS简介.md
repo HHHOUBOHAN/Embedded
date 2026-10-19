@@ -4,7 +4,7 @@
 2. 操作系统
 	 - 分时操作系统：RTOS
 	 - 实时操作系统：TSOS
-	 - ![[Pasted image 20260927220124.png]]
+	 - ![Pasted image 20260927220124](../image/Pasted%20image%2020260927220124.png)
 3. 作用：FreeRTOS的作用是帮助单片机开发者实现**多任务并行**
 ## 1.2 部署开发环境
 ## 1.3 介绍开发板功能
@@ -14,17 +14,17 @@
 4. 稳压电源：产生大小可调的电压：3.3V~18V
 ## 1.4 初次使用FreeRTOS
 ### 1.4.1 编写代码驱动实现开发板上的LED1和LED3闪烁
-1. 闪烁方式 ：                                                  ![[Pasted image 20260928142617.png]]
+1. 闪烁方式 ：                                                  ![Pasted image 20260928142617](../image/Pasted%20image%2020260928142617.png)
 2. 闪烁周期：两颗LED闪烁的周期一致，可以写到同一个while循环里
-3. 代码实现：点亮LED1和LED3，熄灭LED3，熄灭LED1                                           ![[Pasted image 20260928142918.png]]
+3. 代码实现：点亮LED1和LED3，熄灭LED3，熄灭LED1                                           ![Pasted image 20260928142918](../image/Pasted%20image%2020260928142918.png)
 ### 1.4.2  修改LED3闪灯参数
-1. 闪烁方式：                                                      ![[Pasted image 20260928144322.png]]
+1. 闪烁方式：                                                      ![Pasted image 20260928144322](../image/Pasted%20image%2020260928144322.png)
 2. 闪烁周期：两个LED闪烁周期不一致，使用状态机编程
-3. 代码实现：![[Pasted image 20260928144835.png]]
+3. 代码实现：![Pasted image 20260928144835](../image/Pasted%20image%2020260928144835.png)
 	- LED3的状态机写法跟LED1基本一样，把“1”改成“3”，调整时间参数即可
 ### 1.4.3  FreeRTOS实现开发板上的LED1和LED3闪烁
-1. 编写任务代码![[Pasted image 20261003182515.png]]![[Pasted image 20261003184841.png]]
-2. FreeRTOS程序的一般写法![[Pasted image 20261003185410.png]]
+1. 编写任务代码![Pasted image 20261003182515](../image/Pasted%20image%2020261003182515.png)![Pasted image 20261003184841](../image/Pasted%20image%2020261003184841.png)
+2. FreeRTOS程序的一般写法![Pasted image 20261003185410](../image/Pasted%20image%2020261003185410.png)
 
 
 
