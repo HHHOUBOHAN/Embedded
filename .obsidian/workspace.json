@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/江协科技/低功耗.md",
+                "file": "项目/最小系统板/项目问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "低功耗"
+              "title": "项目问题"
             }
           },
           {
@@ -213,10 +213,13 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
+    "项目/基于MQTT的温湿度检测/STM32温湿度风扇控制系统_MQTT项目报告书.md",
+    "项目/最小系统板/项目问题.md",
+    "STM32/铁头山羊/串口/接收数据.md",
+    "STM32/江协科技/低功耗.md",
     "FreeRTOS/C语言基础.md",
     "FreeRTOS/任务管理.md",
     "FreeRTOS/FreeRTOS简介.md",
-    "STM32/江协科技/低功耗.md",
     "STM32/江协科技/attachments/image-1792413957699.png",
     "STM32/铁头山羊/看门狗.md",
     "STM32/铁头山羊/GPIO/编程接口.md",
@@ -227,7 +230,6 @@
     "STM32/铁头山羊/串口/发送数据.md",
     "STM32/铁头山羊/串口/串口初始化IO引脚.md",
     "STM32/铁头山羊/串口/格式化打印字符串.md",
-    "STM32/铁头山羊/串口/接收数据.md",
     "STM32/江协科技/attachments/image-1792412007604.png",
     "STM32/江协科技/attachments/image-1792411755554.png",
     "STM32/江协科技/attachments/image-1792411624034.png",
@@ -243,7 +245,6 @@
     "FreeRTOS/FreeRTOS内核移植.md",
     "FreeRTOS/课程相关资料.md",
     "FreeRTOS/FreeRTOS参考手册.pdf",
-    "项目/基于MQTT的温湿度检测/STM32温湿度风扇控制系统_MQTT项目报告书.md",
     "项目/基于MQTT的温湿度检测/教训.md",
     "项目/基于MQTT的温湿度检测/代码.md",
     "项目/基于MQTT的温湿度检测/未命名 1.md",
