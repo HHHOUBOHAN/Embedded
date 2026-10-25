@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/四层板.md",
+                "file": "PCB/笔记/四层PCB/封装绘制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "四层板"
+              "title": "封装绘制"
             }
           },
           {
@@ -213,8 +213,14 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
-    "PCB/笔记/四层PCB/原理图绘制.md",
+    "项目/最小系统板/项目问题.md",
+    "PCB/笔记/四层PCB/封装绘制.md",
+    "项目/最小系统板/BOOT电路.md",
+    "项目/最小系统板/计划.md",
+    "项目/最小系统板/单片机类教学大纲(1).docx",
+    "PCB/笔记/四层PCB/原理图.md",
     "PCB/笔记/四层PCB/四层板.md",
+    "PCB/笔记/四层PCB/原理图绘制.md",
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "PCB/笔记/经验.md",
     "PCB/笔记/快捷键规则.md",
@@ -229,9 +235,6 @@
     "STM32/江协科技/attachments/image-1792728028909.png",
     "STM32/江协科技/attachments/image-1792727322662.png",
     "STM32/江协科技/低功耗.md",
-    "项目/最小系统板/单片机类教学大纲(1).docx",
-    "项目/最小系统板/BOOT电路.md",
-    "项目/最小系统板/计划.md",
     "FreeRTOS/C语言基础.md",
     "FreeRTOS/任务管理.md",
     "项目/基于MQTT的温湿度检测/服务器网络配置.md",
@@ -239,7 +242,6 @@
     "项目/基于MQTT的温湿度检测/服务器常用指令.md",
     "项目/基于MQTT的温湿度检测/服务器.md",
     "项目/基于MQTT的温湿度检测/问题总结.md",
-    "项目/最小系统板/项目问题.md",
     "项目/基于MQTT的温湿度检测/STM32温湿度风扇控制系统_MQTT项目报告书.md",
     "STM32/铁头山羊/串口/接收数据.md",
     "FreeRTOS/FreeRTOS简介.md",
@@ -248,8 +250,6 @@
     "STM32/铁头山羊/GPIO/编程接口.md",
     "STM32/铁头山羊/IIC/IIC模块使用方法.md",
     "STM32/铁头山羊/IIC/通信协议.md",
-    "STM32/铁头山羊/串口/通信协议.md",
-    "STM32/铁头山羊/串口/USART模块的使用方法.md",
     "STM32/江协科技/attachments",
     "STM32/江协科技",
     "FreeRTOS/FreeRTOS参考手册.pdf",
