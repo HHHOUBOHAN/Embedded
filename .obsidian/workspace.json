@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/封装绘制.md",
+                "file": "PCB/嘉立创和AD快捷键统一问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "封装绘制"
+              "title": "嘉立创和AD快捷键统一问题"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FreeRTOS/C语言基础.md",
+                "file": "PCB/嘉立创和AD快捷键统一问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言基础"
+              "title": "嘉立创和AD快捷键统一问题"
             }
           }
         ]
@@ -213,13 +213,17 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
+    "PCB/笔记/四层PCB/模块化布局.md",
+    "PCB/笔记/四层PCB/封装绘制.md",
+    "PCB/嘉立创和AD快捷键统一问题.md",
+    "PCB/笔记/嘉立创EDA专业版入门教程.md",
+    "PCB/笔记/经验.md",
+    "PCB/笔记/快捷键规则.md",
+    "FreeRTOS/C语言基础.md",
     "PCB/笔记/四层PCB/attachments/image-1793014458545.png",
     "PCB/笔记/四层PCB/attachments",
     "PCB/笔记/四层PCB/四层板.md",
-    "PCB/嘉立创和AD快捷键统一问题.md",
-    "PCB/笔记/嘉立创EDA专业版入门教程.md",
     "PCB/问题/未命名.md",
-    "PCB/笔记/四层PCB/封装绘制.md",
     "项目/最小系统板/项目问题.md",
     "项目/最小系统板/BOOT电路.md",
     "项目/最小系统板/计划.md",
@@ -227,8 +231,6 @@
     "PCB/笔记/四层PCB/原理图.md",
     "PCB/笔记/四层PCB/原理图绘制.md",
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "PCB/笔记/经验.md",
-    "PCB/笔记/快捷键规则.md",
     "STM32/江协科技/看门狗.md",
     "STM32/江协科技/attachments/image-1792731406683.png",
     "STM32/江协科技/attachments/image-1792731266746.png",
@@ -240,7 +242,6 @@
     "STM32/江协科技/attachments/image-1792728028909.png",
     "STM32/江协科技/attachments/image-1792727322662.png",
     "STM32/江协科技/低功耗.md",
-    "FreeRTOS/C语言基础.md",
     "FreeRTOS/任务管理.md",
     "项目/基于MQTT的温湿度检测/服务器网络配置.md",
     "项目/基于MQTT的温湿度检测/未命名 3.md",
@@ -250,7 +251,6 @@
     "项目/基于MQTT的温湿度检测/STM32温湿度风扇控制系统_MQTT项目报告书.md",
     "STM32/铁头山羊/串口/接收数据.md",
     "FreeRTOS/FreeRTOS简介.md",
-    "STM32/江协科技/attachments/image-1792413957699.png",
     "STM32/江协科技/attachments",
     "STM32/江协科技",
     "FreeRTOS/FreeRTOS参考手册.pdf",
