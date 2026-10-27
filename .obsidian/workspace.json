@@ -213,13 +213,18 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
-    "项目/最小系统板/项目问题.md",
+    "PCB/笔记/四层PCB/attachments/image-1793014458545.png",
+    "PCB/笔记/四层PCB/attachments",
+    "PCB/笔记/四层PCB/四层板.md",
+    "PCB/嘉立创和AD快捷键统一问题.md",
+    "PCB/笔记/嘉立创EDA专业版入门教程.md",
+    "PCB/问题/未命名.md",
     "PCB/笔记/四层PCB/封装绘制.md",
+    "项目/最小系统板/项目问题.md",
     "项目/最小系统板/BOOT电路.md",
     "项目/最小系统板/计划.md",
     "项目/最小系统板/单片机类教学大纲(1).docx",
     "PCB/笔记/四层PCB/原理图.md",
-    "PCB/笔记/四层PCB/四层板.md",
     "PCB/笔记/四层PCB/原理图绘制.md",
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "PCB/笔记/经验.md",
@@ -246,10 +251,6 @@
     "STM32/铁头山羊/串口/接收数据.md",
     "FreeRTOS/FreeRTOS简介.md",
     "STM32/江协科技/attachments/image-1792413957699.png",
-    "STM32/铁头山羊/看门狗.md",
-    "STM32/铁头山羊/GPIO/编程接口.md",
-    "STM32/铁头山羊/IIC/IIC模块使用方法.md",
-    "STM32/铁头山羊/IIC/通信协议.md",
     "STM32/江协科技/attachments",
     "STM32/江协科技",
     "FreeRTOS/FreeRTOS参考手册.pdf",
@@ -257,7 +258,6 @@
     "STM32/铁头山羊/定时器",
     "STM32/铁头山羊/ADC",
     "项目/最小系统板/单片机类教学大纲(1) 1.docx",
-    "项目/最小系统板",
-    "PCB/笔记/四层PCB"
+    "项目/最小系统板"
   ]
 }
