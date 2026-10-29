@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/嘉立创和AD快捷键统一问题.md",
+                "file": "项目/想法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嘉立创和AD快捷键统一问题"
+              "title": "想法"
             }
           },
           {
@@ -213,9 +213,12 @@
   },
   "active": "79c89c64b8a0a18f",
   "lastOpenFiles": [
+    "项目/多功能调试器/项目.md",
+    "项目/想法.md",
+    "PCB/嘉立创和AD快捷键统一问题.md",
+    "项目/多功能调试器",
     "PCB/笔记/四层PCB/模块化布局.md",
     "PCB/笔记/四层PCB/封装绘制.md",
-    "PCB/嘉立创和AD快捷键统一问题.md",
     "PCB/笔记/嘉立创EDA专业版入门教程.md",
     "PCB/笔记/经验.md",
     "PCB/笔记/快捷键规则.md",
@@ -249,15 +252,12 @@
     "项目/基于MQTT的温湿度检测/服务器.md",
     "项目/基于MQTT的温湿度检测/问题总结.md",
     "项目/基于MQTT的温湿度检测/STM32温湿度风扇控制系统_MQTT项目报告书.md",
-    "STM32/铁头山羊/串口/接收数据.md",
-    "FreeRTOS/FreeRTOS简介.md",
     "STM32/江协科技/attachments",
     "STM32/江协科技",
     "FreeRTOS/FreeRTOS参考手册.pdf",
     "项目/基于4G通信的智能水罐水位监测与水泵控制系统/EMQX_Windows_SSH隧道故障排查与无窗口自启动解决文档 (1).docx",
     "STM32/铁头山羊/定时器",
     "STM32/铁头山羊/ADC",
-    "项目/最小系统板/单片机类教学大纲(1) 1.docx",
-    "项目/最小系统板"
+    "项目/最小系统板/单片机类教学大纲(1) 1.docx"
   ]
 }
