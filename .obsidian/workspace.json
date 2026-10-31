@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69cbe45415519a5a",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
+    "README.md",
     "STM32/铁头山羊/SPI/电路结构和通信协议.md",
     "QT&LVGL/未命名.md",
     "STM32/铁头山羊/SPI/按钮驱动程序编写.md",
@@ -267,7 +268,6 @@
     "PCB/笔记/四层PCB/四层板.md",
     "PCB/笔记/四层PCB/原理图.md",
     "PCB/笔记/四层PCB/封装绘制.md",
-    "STM32/江协科技/看门狗.md",
     "项目/多功能调试器",
     "PCB/笔记/四层PCB/attachments",
     "项目/最小系统板/单片机类教学大纲(1).docx",
