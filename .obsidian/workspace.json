@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/笔记/四层PCB/设计规则的设置.md",
+                "file": "学习路线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "设计规则的设置"
+              "title": "学习路线"
+            }
+          },
+          {
+            "id": "d4213efdabfbc84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32/铁头山羊/GPIO/LED闪灯实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LED闪灯实验"
             }
           },
           {
@@ -27,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/嘉立创和AD快捷键统一问题.md",
+                "file": "QT&LVGL/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嘉立创和AD快捷键统一问题"
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,53 +226,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79c89c64b8a0a18f",
+  "active": "69cbe45415519a5a",
   "lastOpenFiles": [
-    "PCB/笔记/四层PCB/attachments/image-1793334708773.png",
-    "PCB/笔记/四层PCB/attachments/image-1793334351503.png",
-    "PCB/笔记/四层PCB/attachments/image-1793333594147.png",
-    "硬件/数电/数电笔记/绪论.md",
+    "STM32/铁头山羊/SPI/电路结构和通信协议.md",
+    "QT&LVGL/未命名.md",
+    "STM32/铁头山羊/SPI/按钮驱动程序编写.md",
+    "STM32/铁头山羊/SPI/IO引脚初始化.md",
+    "思考.md",
+    "cmark",
+    "git",
+    "PCB/嘉立创和AD快捷键统一问题.md",
+    "未命名.md",
+    "未命名 1.md",
+    "STM32/铁头山羊/GPIO/LED闪灯实验.md",
+    "学习记录.md",
+    "学习路线.md",
+    "项目/多功能调试器/项目.md",
+    "项目/基于MQTT的温湿度检测/问题/bug.md",
+    "项目/基于MQTT的温湿度检测/问题/attachments/image-1793351372344.png",
+    "项目/基于MQTT的温湿度检测/问题/attachments/image-1793351369462.png",
+    "项目/基于MQTT的温湿度检测/问题/attachments",
+    "PCB/笔记/四层PCB/PCB布线.md",
+    "项目/基于MQTT的温湿度检测/问题",
+    "PCB/笔记/四层PCB/attachments/image-1793345922417.png",
+    "PCB/笔记/四层PCB/attachments/image-1793345830547.png",
+    "PCB/笔记/四层PCB/attachments/image-1793345304864.png",
+    "PCB/笔记/四层PCB/attachments/image-1793345057129.png",
+    "PCB/笔记/四层PCB/attachments/image-1793344371067.png",
+    "PCB/笔记/四层PCB/attachments/image-1793344295073.png",
+    "PCB/笔记/四层PCB/attachments/image-1793342041527.png",
     "PCB/笔记/四层PCB/设计规则的设置.md",
+    "PCB/笔记/四层PCB/attachments/image-1793334708773.png",
+    "硬件/数电/数电笔记/绪论.md",
     "硬件/数电/数电笔记/信息与编码.md",
     "项目/想法.md",
     "PCB/笔记/四层PCB/布线原则.md",
-    "项目/多功能调试器/项目.md",
     "PCB/笔记/四层PCB/模块化布局.md",
-    "PCB/笔记/四层PCB/attachments/image-1793270213380.png",
     "PCB/笔记/经验.md",
     "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
     "PCB/笔记/四层PCB/四层板.md",
     "PCB/笔记/四层PCB/原理图.md",
     "PCB/笔记/四层PCB/封装绘制.md",
     "STM32/江协科技/看门狗.md",
-    "PCB/嘉立创和AD快捷键统一问题.md",
     "项目/多功能调试器",
-    "PCB/笔记/嘉立创EDA专业版入门教程.md",
-    "PCB/笔记/快捷键规则.md",
-    "FreeRTOS/C语言基础.md",
-    "PCB/笔记/四层PCB/attachments/image-1793014458545.png",
     "PCB/笔记/四层PCB/attachments",
-    "PCB/问题/未命名.md",
-    "项目/最小系统板/项目问题.md",
-    "项目/最小系统板/BOOT电路.md",
-    "项目/最小系统板/计划.md",
     "项目/最小系统板/单片机类教学大纲(1).docx",
-    "PCB/笔记/四层PCB/原理图绘制.md",
-    "STM32/江协科技/attachments/image-1792731406683.png",
-    "STM32/江协科技/attachments/image-1792731266746.png",
-    "STM32/江协科技/attachments/image-1792731107404.png",
-    "STM32/江协科技/attachments/image-1792731076386.png",
-    "STM32/江协科技/attachments/image-1792730289466.png",
-    "STM32/江协科技/attachments/image-1792729267967.png",
-    "STM32/江协科技/低功耗.md",
-    "FreeRTOS/任务管理.md",
-    "项目/基于MQTT的温湿度检测/服务器网络配置.md",
     "STM32/江协科技/attachments",
     "STM32/江协科技",
-    "FreeRTOS/FreeRTOS参考手册.pdf",
-    "项目/基于4G通信的智能水罐水位监测与水泵控制系统/EMQX_Windows_SSH隧道故障排查与无窗口自启动解决文档 (1).docx",
-    "STM32/铁头山羊/定时器",
-    "STM32/铁头山羊/ADC",
-    "项目/最小系统板/单片机类教学大纲(1) 1.docx"
+    "FreeRTOS/FreeRTOS参考手册.pdf"
   ]
 }
