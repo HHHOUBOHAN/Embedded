@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/铁头山羊/串口/串口初始化IO引脚.md",
+                "file": "STM32/铁头山羊/SPI/IO引脚初始化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "串口初始化IO引脚"
+              "title": "IO引脚初始化"
             }
           }
         ],
@@ -229,9 +229,15 @@
   "active": "8140b96241de6af2",
   "lastOpenFiles": [
     "STM32/铁头山羊/串口/通信协议.md",
+    "STM32/铁头山羊/串口/USART模块的使用方法.md",
     "STM32/铁头山羊/串口/发送数据.md",
+    "STM32/铁头山羊/串口/串口初始化IO引脚.md",
     "STM32/铁头山羊/串口/格式化打印字符串.md",
     "STM32/铁头山羊/串口/接收数据.md",
+    "STM32/江协科技/低功耗.md",
+    "STM32/江协科技/看门狗.md",
+    "硬件/电路原理/启动模式配置电路.md",
+    "硬件/电路原理/压降，电压.md",
     "硬件/数电/期末备考/数电.md",
     "markdown&LaTex/常见数学符号书写.md",
     "markdown&LaTex",
@@ -257,21 +263,15 @@
     "STM32/铁头山羊/GPIO/LED闪灯实验.md",
     "学习记录.md",
     "项目/多功能调试器/项目.md",
-    "项目/基于MQTT的温湿度检测/问题/bug.md",
     "项目/基于MQTT的温湿度检测/问题/attachments/image-1793351372344.png",
     "项目/基于MQTT的温湿度检测/问题/attachments/image-1793351369462.png",
     "项目/基于MQTT的温湿度检测/问题/attachments",
-    "PCB/笔记/四层PCB/PCB布线.md",
     "项目/基于MQTT的温湿度检测/问题",
     "PCB/笔记/四层PCB/attachments/image-1793345922417.png",
     "PCB/笔记/四层PCB/attachments/image-1793345830547.png",
     "PCB/笔记/四层PCB/attachments/image-1793345304864.png",
     "PCB/笔记/四层PCB/attachments/image-1793345057129.png",
     "PCB/笔记/四层PCB/attachments/image-1793344371067.png",
-    "PCB/笔记/四层PCB/设计规则的设置.md",
-    "硬件/数电/数电笔记/绪论.md",
-    "硬件/数电/数电笔记/信息与编码.md",
-    "项目/想法.md",
     "项目/多功能调试器",
     "PCB/笔记/四层PCB/attachments"
   ]
