@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/铁头山羊/串口.md",
+                "file": "STM32/铁头山羊/GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "串口"
+              "title": "GPIO"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/铁头山羊/串口.md",
+                "file": "STM32/铁头山羊/GPIO.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -211,8 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "d4213efdabfbc84f",
   "lastOpenFiles": [
+    "学习路线.md",
+    "思考.md",
+    "STM32/铁头山羊/串口.md",
     "STM32/铁头山羊/未命名.md",
     "STM32/铁头山羊/GPIO.md",
     "STM32/铁头山羊/attachments/image-1793965599196.png",
@@ -233,7 +236,6 @@
     "STM32/铁头山羊/GPIO/按钮实验.md",
     "STM32/铁头山羊/GPIO/LED闪灯实验.md",
     "STM32/铁头山羊/GPIO/IO的最大输出速度.md",
-    "学习路线.md",
     "README.md",
     "STM32/铁头山羊/attachments/image-1793960485457.png",
     "STM32/铁头山羊/GPIO/attachments",
@@ -242,7 +244,6 @@
     "STM32/笔记/敏纳科技/屏幕显示.md",
     "STM32/笔记/敏纳科技/串口.md",
     "QT&LVGL/QT.md",
-    "STM32/铁头山羊/串口.md",
     "STM32/铁头山羊/定时器.md",
     "PCB/笔记/嘉立创EDA专业版入门教程.md",
     "PCB/笔记/四层PCB/设计规则的设置.md",
@@ -250,7 +251,6 @@
     "STM32/江协科技/低功耗.md",
     "STM32/铁头山羊/attachments",
     "PCB/笔记/四层PCB/PCB布线.md",
-    "PCB/笔记/四层PCB/四层板.md",
     "STM32/江协科技/CAN",
     "项目/平衡小车",
     "markdown&LaTex",
