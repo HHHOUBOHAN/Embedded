@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QT&LVGL/QT.md",
+                "file": "硬件/电路原理/启动模式配置电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QT"
+              "title": "启动模式配置电路"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "d4213efdabfbc84f",
   "lastOpenFiles": [
+    "QT&LVGL/QT.md",
     "STM32/铁头山羊/ADC.md",
     "STM32/江协科技/低功耗.md",
-    "QT&LVGL/QT.md",
     "STM32/铁头山羊/attachments/image-1793881184922.png",
     "STM32/铁头山羊/attachments/image-1793878104709.png",
     "STM32/铁头山羊/attachments/image-1793877927630.png",
