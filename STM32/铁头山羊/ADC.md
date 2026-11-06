@@ -3,7 +3,9 @@
 ## 1.1.1 ADC是什么
 1. 一种将模拟信号转换为数字信号的电子器件或电路模块（电压信号转换数字量）                                                                                   ![image-1793765442329.png](attachments/image-1793765442329.png)
 2. 模拟信号&&数字信号                                     ![image-1793765542870.png](attachments/image-1793765542870.png)
-## 1.1.2 单片机里的ADC模块![[image-1793765542870.png]]
+## 1.1.2 单片机里的ADC模块
+
+![[image-1793765542870.png]]
 1. 内部结构框图（ADC1,ADC2）: 十二位逐次逼近型ADC![image-1793765801843.png](attachments/image-1793765801843.png)
 ## 1.1.3 采样深度的概念
 1. 采样深度：用多少二进制数表示转换结果，不同的采样深度导致其量化误差不同![image-1793766002220.png](attachments/image-1793766002220.png)
@@ -135,12 +137,13 @@ RCC_APB2PeriphClockCmd(RCC_APB2Periph_ADC1,ENABLE);
 1. TRGO信号产生的思路：从模式控制器设置为update模式，每当时基单元产生一个update的时候，TRGO就会产生一个脉冲信号
 ## 1.5.4 注入序列的编程接口
 1. 编程接口图![image-1793881184922.png](attachments/image-1793881184922.png)
-2. 
-
 ## 1.5.5 初始化ADC（注入序列）
-## 1.5.6 读取并发动测量结果
-
-
+1. 初始化IO引脚
+2. 配置时钟（ADC时钟要小于14MHz）![image-1793930363067.png](attachments/image-1793930363067.png)
+3. 配置ADC的基本参数![image-1793931173252.png](attachments/image-1793931173252.png)
+4. 配置注入序列
+5. 闭合总开关
+6. 读取并发动测量结果
 # 1.6 扫描模式
 
 
