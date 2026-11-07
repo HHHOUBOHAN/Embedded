@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/铁头山羊/GPIO/GPIO四种输入模式.md",
+                "file": "STM32/铁头山羊/串口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIO四种输入模式"
+              "title": "串口"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,32 +214,32 @@
   },
   "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "STM32/铁头山羊/attachments/image-1793970593212.png",
-    "STM32/铁头山羊/attachments/image-1793970477489.png",
-    "STM32/铁头山羊/attachments/image-1793970327568.png",
-    "STM32/铁头山羊/attachments/image-1793969841757.png",
-    "STM32/铁头山羊/attachments/image-1793969690016.png",
-    "STM32/铁头山羊/attachments/image-1793968772660.png",
-    "STM32/铁头山羊/attachments/image-1793968664250.png",
-    "STM32/铁头山羊/attachments/image-1793968221526.png",
-    "STM32/铁头山羊/attachments/image-1793968110798.png",
-    "STM32/铁头山羊/attachments/image-1793967631009.png",
-    "STM32/铁头山羊/attachments/image-1793967340149.png",
+    "STM32/铁头山羊/attachments/image-1794025947175.png",
+    "STM32/铁头山羊/attachments/image-1794025256573.png",
+    "STM32/铁头山羊/attachments/image-1794024182241.png",
+    "STM32/铁头山羊/attachments/image-1794024062656.png",
+    "STM32/铁头山羊/attachments/image-1794023891639.png",
+    "STM32/铁头山羊/attachments/image-1794023799360.png",
+    "STM32/铁头山羊/attachments/image-1794023766240.png",
+    "STM32/铁头山羊/attachments/image-1794023132334.png",
+    "STM32/铁头山羊/attachments/image-1794023124693.png",
+    "STM32/铁头山羊/attachments/image-1794022615360.png",
+    "STM32/铁头山羊/attachments/image-1794022518287.png",
+    "STM32/铁头山羊/ADC.md",
+    "STM32/铁头山羊/GPIO.md",
+    "STM32/铁头山羊/GPIO/GPIO四种输入模式.md",
+    "STM32/铁头山羊/串口.md",
     "QT&LVGL/QT.md",
     "STM32/笔记/电流产生.md",
     "STM32/笔记/敏纳科技/串口.md",
     "STM32/笔记/【STM32】STM32学习笔记-USART串口协议.md",
     "STM32/笔记/未命名.md",
     "STM32/笔记/【STM32】STM32学习笔记-ADC模数转换器(21) (1).md",
-    "STM32/铁头山羊/串口.md",
     "STM32/江协科技/低功耗.md",
     "STM32/江协科技/FLASH.md",
-    "STM32/铁头山羊/GPIO.md",
     "学习路线.md",
     "思考.md",
     "STM32/铁头山羊/未命名.md",
-    "STM32/铁头山羊/GPIO/GPIO四种输入模式.md",
-    "STM32/铁头山羊/ADC.md",
     "STM32/铁头山羊/GPIO/GPIO的4种输出模式.md",
     "STM32/铁头山羊/GPIO/ADC模数转换器.md",
     "STM32/铁头山羊/GPIO/STM32引脚分布.md",
