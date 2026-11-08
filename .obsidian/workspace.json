@@ -13,44 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考.md",
+                "file": "项目/教训.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思考"
+              "title": "教训"
             }
           },
           {
-            "id": "9e420d0e69980075",
+            "id": "6541417c70115f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "STM32/铁头山羊/串口.md",
-                "mode": "source",
-                "source": false
+                "aFile": "硬件/PCB/笔记/基础篇/51单片机.md",
+                "bFile": "硬件/PCB/笔记/基础篇/51单片机.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "串口"
-            }
-          },
-          {
-            "id": "cda5b49181ca9c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32/问题总结/引脚和片上外设如何对应起来的.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "引脚和片上外设如何对应起来的"
+              "icon": "diff",
+              "title": "Diff: 51单片机  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.1666717529297
+    "width": 204.35133361816406
   },
   "right": {
     "id": "024b42091c7f1171",
@@ -187,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/铁头山羊/串口.md",
+                "file": "STM32/铁头山羊/IIC/基本电路结构.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -211,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 388.267333984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,53 +211,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "d4213efdabfbc84f",
   "lastOpenFiles": [
+    "项目/想法.md",
+    "工程化工作流/工作流.md",
+    "项目/教训.md",
+    "硬件/PCB/问题/嘉立创和AD快捷键统一问题.md",
+    "image/Pasted image 20261017170522.png",
+    "硬件/PCB/笔记/基础篇/51单片机.md",
+    "中间件/markdown&LaTex/常见数学符号书写.md",
+    "markdown&LaTex/常见数学符号书写.md",
+    "硬件/电路/复位电路.md",
+    "硬件/电路/DCDC模块设计.md",
+    "硬件/电路",
+    "硬件/焊接 1/经验.md",
+    "硬件/焊接 1/元器件收纳.md",
+    "硬件/焊接 1",
+    "工程化工作流",
+    "markdown&LaTex",
+    "STM32/铁头山羊/GPIO/attachments/image-1793942335101.png",
+    "STM32/笔记/敏纳科技/屏幕显示.md",
+    "STM32/笔记/敏纳科技/串口.md",
+    "STM32/笔记/stm32/定时器.md",
+    "STM32/笔记/stm32/外部中断.md",
+    "STM32/笔记/stm32/LED点亮知识点.md",
+    "STM32/笔记/stm32/低电平高电平判断.md",
+    "STM32/笔记/stm32/TIM输出比较.md",
+    "STM32/铁头山羊/IIC/通信协议.md",
+    "STM32/铁头山羊/IIC/基本电路结构.md",
+    "STM32/铁头山羊/IIC/IIC模块使用方法.md",
+    "STM32/铁头山羊/GPIO/编程接口.md",
+    "STM32/铁头山羊/GPIO/按钮实验.md",
+    "STM32/铁头山羊/GPIO/STM32引脚分布.md",
+    "STM32/铁头山羊/GPIO/LED闪灯实验.md",
+    "STM32/铁头山羊/GPIO/IO的最大输出速度.md",
+    "STM32/铁头山羊/GPIO/attachments",
     "STM32/铁头山羊/attachments/image-1794127363422.png",
     "STM32/铁头山羊/attachments/image-1794127133471.png",
     "STM32/铁头山羊/attachments/image-1794127021362.png",
     "STM32/铁头山羊/attachments/image-1794126937566.png",
     "STM32/铁头山羊/attachments/image-1794126908831.png",
-    "STM32/问题总结/引脚和片上外设如何对应起来的.md",
-    "STM32/问题总结/定义跳转不了.md",
-    "思考.md",
-    "STM32/铁头山羊/串口.md",
-    "STM32/问题总结",
     "STM32/铁头山羊/attachments/image-1794122680247.png",
     "STM32/铁头山羊/attachments/image-1794122388043.png",
     "STM32/铁头山羊/attachments/image-1794122215019.png",
-    "STM32/铁头山羊/attachments/image-1794121796374.png",
-    "STM32/铁头山羊/attachments/image-1794120859561.png",
-    "STM32/铁头山羊/attachments/image-1794112955497.png",
-    "C语言",
-    "README.md",
-    "学习路线.md",
-    "PCB/笔记/四层PCB/未命名.md",
-    "PCB/笔记/四层PCB/PCB布线.md",
-    "PCB/笔记/四层PCB/设计规则的设置.md",
-    "PCB/笔记/四层PCB/原理图.md",
-    "PCB/笔记/四层PCB/封装绘制.md",
-    "PCB/笔记/四层PCB/模块化布局.md",
-    "PCB/笔记/四层PCB/声源跟踪小车工作原理.md",
-    "PCB/笔记/四层PCB/四层板.md",
-    "PCB/笔记/嘉立创EDA专业版入门教程.md",
-    "PCB/笔记/经验.md",
-    "STM32/江协科技/低功耗.md",
-    "QT&LVGL/QT.md",
-    "STM32/江协科技/看门狗.md",
-    "STM32/铁头山羊/GPIO.md",
-    "STM32/铁头山羊/学习要求.md",
-    "STM32/铁头山羊/ADC.md",
-    "STM32/铁头山羊/定时器.md",
-    "STM32/铁头山羊/GPIO/GPIO四种输入模式.md",
-    "STM32/笔记/电流产生.md",
-    "STM32/铁头山羊/GPIO/attachments",
-    "STM32/铁头山羊/attachments",
-    "STM32/江协科技/CAN",
-    "项目/平衡小车",
-    "markdown&LaTex",
-    "硬件/数电/期末备考/attachments",
-    "FreeRTOS/FreeRTOS参考手册.pdf",
-    "硬件/数电/期末备考"
+    "STM32/笔记/敏纳科技",
+    "STM32/笔记/stm32",
+    "STM32/铁头山羊/IIC",
+    "STM32/铁头山羊/GPIO",
+    "STM32/铁头山羊/attachments"
   ]
 }
