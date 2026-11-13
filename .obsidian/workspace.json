@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/数电/数电复习.md",
+                "file": "学习路线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数电复习"
+              "title": "学习路线"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/数电/期末备考/数电.md",
+                "file": "软件/STM32/SPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数电"
+              "title": "SPI"
+            }
+          },
+          {
+            "id": "e575328427471092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/STM32/铁头山羊/要做的实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "要做的实验"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/数电/数电复习.md",
+                "file": "软件/STM32/SPI.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,31 +228,38 @@
   },
   "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "硬件/数电/attachments/image-1794489528142.png",
-    "硬件/数电/attachments/image-1794489513436.png",
+    "软件/STM32/attachments/image-1794573185156.png",
+    "软件/STM32/attachments/image-1794573081477.png",
+    "软件/STM32/attachments/image-1794572987085.png",
+    "软件/STM32/attachments/image-1794572761322.png",
+    "软件/STM32/attachments/image-1794572729188.png",
+    "软件/STM32/attachments/image-1794572705791.png",
+    "软件/STM32/attachments/image-1794572508138.png",
+    "学习路线.md",
+    "软件/STM32/SPI.md",
+    "软件/STM32/attachments/image-1794572313478.png",
+    "软件/STM32/attachments/image-1794572244457.png",
+    "软件/STM32/attachments/image-1794572180754.png",
+    "软件/STM32/attachments/image-1794572171958.png",
+    "软件/STM32/铁头山羊/要做的实验.md",
+    "软件/STM32/attachments",
+    "思考.md",
+    "课程进度.md",
+    "未命名.base",
+    "项目/平衡小车/未命名.md",
+    "软件/STM32/铁头山羊/I2C.md",
     "硬件/数电/期末备考/数电.md",
     "硬件/数电/数电复习.md",
     "硬件/数电/数电笔记/绪论.md",
-    "硬件/数电/attachments/image-1794487852302.png",
     "硬件/数电/attachments",
     "硬件/数电/数电笔记/信息与编码.md",
-    "软件/STM32/铁头山羊/I2C.md",
-    "软件/STM32/铁头山羊/attachments/image-1794485199681.png",
-    "软件/STM32/铁头山羊/attachments/image-1794483636664.png",
-    "软件/STM32/铁头山羊/attachments/image-1794483605419.png",
-    "软件/STM32/铁头山羊/attachments/image-1794482677660.png",
-    "软件/STM32/铁头山羊/attachments/image-1794482191574.png",
-    "软件/STM32/铁头山羊/attachments/image-1794481991481.png",
-    "软件/STM32/铁头山羊/attachments/image-1794481792622.png",
     "软件/STM32/铁头山羊/学习要求.md",
-    "软件/STM32/铁头山羊/attachments/image-1794458931497.png",
     "项目/平衡小车/平衡车.md",
     "软件/STM32/铁头山羊/串口.md",
     "项目/平衡小车/attachments",
     "软件/STM32/江协科技/低功耗.md",
     "项目/平衡小车/笔记/未命名.md",
     "项目/平衡小车/笔记",
-    "软件/STM32/铁头山羊/未命名.md",
     "软件/STM32/江协科技/看门狗.md",
     "软件/STM32/铁头山羊/ADC.md",
     "软件/STM32/铁头山羊/IIC/通信协议.md",
@@ -247,17 +269,10 @@
     "软件/STM32/铁头山羊/GPIO.md",
     "硬件/PCB/笔记/基础篇/PCB设计基础.md",
     "硬件/PCB/笔记/嘉立创EDA专业版入门教程.md",
-    "硬件/PCB/笔记/经验.md",
-    "硬件/PCB/笔记/基础篇/入门.md",
-    "硬件/PCB/笔记/基础篇/USB.md",
-    "硬件/PCB/笔记/基础篇/51单片机.md",
-    "硬件/PCB/笔记/大师篇/STM32F103C8T6.md",
     "硬件/电路",
     "硬件/焊接 1",
     "工程化工作流",
     "markdown&LaTex",
-    "STM32/铁头山羊/GPIO/attachments",
-    "STM32/笔记/敏纳科技",
-    "STM32/笔记/stm32"
+    "STM32/铁头山羊/GPIO/attachments"
   ]
 }

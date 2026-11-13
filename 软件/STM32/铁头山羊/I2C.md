@@ -193,17 +193,28 @@
 	2. 硬件I2C引脚位置受到限制
 	3. ![image-1794485199681.png](attachments/image-1794485199681.png)
 ## 1.6.1 IO引脚初始化
+1. 通用输出开漏模式（**初始电平高**）![image-1794537246685.png](attachments/image-1794537246685.png)
 ## 1.6.2 IO读写和延迟函数
+1. 编程接口：向SCL写0或者写1    向SDA写0或者写1  向SDA写0或者写1  微秒级延迟![image-1794537475195.png](attachments/image-1794537475195.png)
 ## 1.6.3 发送起始位和停止位
+1. 起始位：SCL高电压的时候SDA出现一个下升沿  停止位：SCL高电压的时候SDA出现一个上升沿![image-1794538228973.png](attachments/image-1794538228973.png)
 ## 1.6.4 发送一个字节
+1. scl=0 ，发送方准备数据  sda=0,发送方读取数据   SDA的高低电平和上一个发送电平有关    （写数据 ，读数据）![image-1794538777487.png](attachments/image-1794538777487.png)
+2. 发送流程![image-1794539087127.png](attachments/image-1794539087127.png)
+3. 计算x的值![image-1794539191565.png](attachments/image-1794539191565.png)
 ## 1.6.5 接收一个字节
+1. scl=0,发送方准备数据     scl=1，接收方读取数据![image-1794541093326.png](attachments/image-1794541093326.png)
 ## 1.6.6 综合
+![image-1794543104401.png](attachments/image-1794543104401.png)
 ## 1.6.7 测试
-
-
+![image-1794543481272.png](attachments/image-1794543481272.png)
 # 1.7 封装常用功能
+## 1.7.1 测试硬件I2C
+![image-1794544591499.png](attachments/image-1794544591499.png)
+![image-1794545216921.png](attachments/image-1794545216921.png)
+## 1.7.2 测试软件I2C
 # 1.8 OLED显示器
-
+ 
 
 
 
