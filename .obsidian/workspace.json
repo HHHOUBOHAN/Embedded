@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "23398f99b5a29f87",
+        "id": "fdf1ab120472fbbe",
         "type": "tabs",
         "children": [
           {
-            "id": "d4213efdabfbc84f",
+            "id": "fac08544d2742fa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/教训.md",
+                "file": "硬件/数电/数电复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "教训"
+              "title": "数电复习"
             }
           },
           {
-            "id": "2b3441f60fb07915",
+            "id": "57f364c7cfb807bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/STM32/铁头山羊/GPIO.md",
+                "file": "硬件/数电/期末备考/数电.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIO"
-            }
-          },
-          {
-            "id": "1e2446220cb99ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件/STM32/铁头山羊/I2C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I2C"
+              "title": "数电"
             }
           }
         ]
@@ -186,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/铁头山羊/IIC/基本电路结构.md",
+                "file": "硬件/数电/数电复习.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -225,10 +211,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4213efdabfbc84f",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "软件/STM32/铁头山羊/GPIO.md",
+    "硬件/数电/attachments/image-1794489528142.png",
+    "硬件/数电/attachments/image-1794489513436.png",
+    "硬件/数电/期末备考/数电.md",
+    "硬件/数电/数电复习.md",
+    "硬件/数电/数电笔记/绪论.md",
+    "硬件/数电/attachments/image-1794487852302.png",
+    "硬件/数电/attachments",
+    "硬件/数电/数电笔记/信息与编码.md",
     "软件/STM32/铁头山羊/I2C.md",
+    "软件/STM32/铁头山羊/attachments/image-1794485199681.png",
+    "软件/STM32/铁头山羊/attachments/image-1794483636664.png",
+    "软件/STM32/铁头山羊/attachments/image-1794483605419.png",
+    "软件/STM32/铁头山羊/attachments/image-1794482677660.png",
+    "软件/STM32/铁头山羊/attachments/image-1794482191574.png",
+    "软件/STM32/铁头山羊/attachments/image-1794481991481.png",
+    "软件/STM32/铁头山羊/attachments/image-1794481792622.png",
+    "软件/STM32/铁头山羊/学习要求.md",
+    "软件/STM32/铁头山羊/attachments/image-1794458931497.png",
+    "项目/平衡小车/平衡车.md",
+    "软件/STM32/铁头山羊/串口.md",
+    "项目/平衡小车/attachments",
+    "软件/STM32/江协科技/低功耗.md",
+    "项目/平衡小车/笔记/未命名.md",
+    "项目/平衡小车/笔记",
+    "软件/STM32/铁头山羊/未命名.md",
+    "软件/STM32/江协科技/看门狗.md",
+    "软件/STM32/铁头山羊/ADC.md",
+    "软件/STM32/铁头山羊/IIC/通信协议.md",
+    "软件/STM32/铁头山羊/IIC/IIC模块使用方法.md",
+    "软件/STM32/铁头山羊/IIC/基本电路结构.md",
+    "项目/教训.md",
+    "软件/STM32/铁头山羊/GPIO.md",
     "硬件/PCB/笔记/基础篇/PCB设计基础.md",
     "硬件/PCB/笔记/嘉立创EDA专业版入门教程.md",
     "硬件/PCB/笔记/经验.md",
@@ -236,42 +252,12 @@
     "硬件/PCB/笔记/基础篇/USB.md",
     "硬件/PCB/笔记/基础篇/51单片机.md",
     "硬件/PCB/笔记/大师篇/STM32F103C8T6.md",
-    "硬件/PCB/笔记/大师篇/购买注意事项.md",
-    "硬件/PCB/笔记/大师篇/产品设计流程.md",
-    "软件/QT&LVGL/QT.md",
-    "README.md",
-    "学习路线.md",
-    "思考.md",
-    "软件/STM32/铁头山羊/attachments/image-1794132007743.png",
-    "软件/STM32/铁头山羊/attachments/image-1794131106349.png",
-    "conflict-files-obsidian-git.md",
-    "软件/STM32/铁头山羊/ADC.md",
-    "软件/STM32/铁头山羊/attachments/image-1794134716660.png",
-    "工程化工作流/工作流.md",
-    "开发板资料/STM32F407/模块介绍/3D_主板_2025-12-24.png",
-    "开发板资料/STM32F407/模块介绍/接口指示图.png",
-    "开发板资料/STM32F407/模块介绍/接口介绍2.png",
-    "开发板资料/STM32F407/模块介绍/主板1.png",
-    "开发板资料/STM32F407/模块介绍/主板3.png",
-    "软件/报错调试/vs code报错问题.md",
-    "硬件/电路设计/DCDC模块设计.md",
-    "硬件/电路设计/复位电路.md",
-    "项目/教训.md",
-    "项目/想法.md",
-    "硬件/PCB/问题/嘉立创和AD快捷键统一问题.md",
-    "image/Pasted image 20261017170522.png",
-    "中间件/markdown&LaTex/常见数学符号书写.md",
-    "markdown&LaTex/常见数学符号书写.md",
     "硬件/电路",
     "硬件/焊接 1",
     "工程化工作流",
     "markdown&LaTex",
-    "STM32/铁头山羊/GPIO/attachments/image-1793942335101.png",
     "STM32/铁头山羊/GPIO/attachments",
     "STM32/笔记/敏纳科技",
-    "STM32/笔记/stm32",
-    "STM32/铁头山羊/IIC",
-    "STM32/铁头山羊/GPIO",
-    "STM32/铁头山羊/attachments"
+    "STM32/笔记/stm32"
   ]
 }
