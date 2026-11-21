@@ -212,8 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "8b7fd7750146d89b",
   "lastOpenFiles": [
+    "项目/平衡小车/attachments/image-1795238557509.png",
+    "项目/平衡小车/attachments/image-1795238341120.png",
+    "软件/STM32/江协科技/看门狗.md",
+    "中间件/cmark/Cmark.md",
+    "中间件/cmark/attachments/image-1795222994285.png",
+    "中间件/cmark/attachments",
+    "项目/平衡小车/平衡车.md",
     "项目/平衡小车/attachments/image-1795170067713.png",
     "项目/平衡小车/attachments/image-1795169183209.png",
     "项目/平衡小车/attachments/image-1795167302476.png",
@@ -223,7 +230,6 @@
     "软件/FreeRTOS/C语言基础3.md",
     "软件/FreeRTOS/课程相关资料.md",
     "软件/FreeRTOS/FreeRTOS内核移植2.md",
-    "项目/平衡小车/平衡车.md",
     "软件/STM32/铁头山羊/定时器.md",
     "软件/STM32/铁头山羊/定时器(老).md",
     "软件/QT&LVGL/QT.md",
@@ -233,9 +239,6 @@
     "硬件/数电/attachments/image-1795007241225.png",
     "硬件/数电/attachments/image-1795007036949.png",
     "硬件/数电/attachments/image-1795006661623.png",
-    "硬件/数电/attachments/image-1795006457444.png",
-    "硬件/数电/attachments/image-1795000254727.png",
-    "硬件/数电/attachments/image-1795000212401.png",
     "软件/STM32/铁头山羊/要做的实验.md",
     "软件/STM32/铁头山羊/时钟.md",
     "软件/STM32/铁头山羊/EXTI.md",
@@ -251,14 +254,11 @@
     "项目/平衡小车/未命名.md",
     "硬件/数电/数电笔记/绪论.md",
     "硬件/数电/attachments",
-    "硬件/数电/数电笔记/信息与编码.md",
-    "软件/STM32/铁头山羊/学习要求.md",
     "项目/平衡小车/attachments",
     "项目/平衡小车/笔记",
     "硬件/电路",
     "硬件/焊接 1",
     "工程化工作流",
-    "markdown&LaTex",
-    "STM32/铁头山羊/GPIO/attachments"
+    "markdown&LaTex"
   ]
 }
