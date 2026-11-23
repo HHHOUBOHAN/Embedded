@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/数电/期末备考/数电.md",
+                "file": "项目/平衡小车/平衡车.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数电"
+              "title": "平衡车"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/平衡小车/平衡车.md",
+                "file": "项目/平衡小车/平衡小车注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "平衡车"
+              "title": "平衡小车注意事项"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.1666259765625
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,33 +211,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7fd7750146d89b",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "项目/平衡小车/attachments/image-1795238557509.png",
-    "项目/平衡小车/attachments/image-1795238341120.png",
+    "项目/平衡小车/attachments/image-1795335377247.png",
+    "项目/平衡小车/attachments/image-1795334857552.png",
+    "项目/平衡小车/attachments/image-1795334723888.png",
+    "项目/平衡小车/attachments/image-1795334296503.png",
+    "项目/平衡小车/attachments/image-1795334234297.png",
+    "项目/平衡小车/attachments/image-1795334143380.png",
+    "项目/平衡小车/attachments/image-1795334135227.png",
+    "项目/平衡小车/attachments/image-1795333948738.png",
+    "项目/平衡小车/attachments/image-1795333119711.png",
+    "项目/平衡小车/attachments/image-1795329785007.png",
+    "项目/平衡小车/attachments/image-1795323320968.png",
+    "项目/平衡小车/平衡小车注意事项.md",
+    "硬件/数电/期末备考/数电.md",
+    "项目/平衡小车/平衡车.md",
+    "软件/STM32/铁头山羊/定时器.md",
+    "项目/工程化工作流/工作流.md",
+    "软件/QT&LVGL/QT.md",
     "软件/STM32/江协科技/看门狗.md",
     "中间件/cmark/Cmark.md",
-    "中间件/cmark/attachments/image-1795222994285.png",
     "中间件/cmark/attachments",
-    "项目/平衡小车/平衡车.md",
-    "项目/平衡小车/attachments/image-1795170067713.png",
-    "项目/平衡小车/attachments/image-1795169183209.png",
-    "项目/平衡小车/attachments/image-1795167302476.png",
-    "项目/平衡小车/attachments/image-1795166833040.png",
     "软件/FreeRTOS/任务管理4.md",
     "软件/FreeRTOS/FreeRTOS简介1.md",
     "软件/FreeRTOS/C语言基础3.md",
     "软件/FreeRTOS/课程相关资料.md",
     "软件/FreeRTOS/FreeRTOS内核移植2.md",
-    "软件/STM32/铁头山羊/定时器.md",
     "软件/STM32/铁头山羊/定时器(老).md",
-    "软件/QT&LVGL/QT.md",
     "硬件/数电/数电复习.md",
-    "硬件/数电/期末备考/数电.md",
-    "硬件/数电/attachments/image-1795007254277.png",
-    "硬件/数电/attachments/image-1795007241225.png",
-    "硬件/数电/attachments/image-1795007036949.png",
-    "硬件/数电/attachments/image-1795006661623.png",
     "软件/STM32/铁头山羊/要做的实验.md",
     "软件/STM32/铁头山羊/时钟.md",
     "软件/STM32/铁头山羊/EXTI.md",
@@ -251,8 +252,6 @@
     "思考.md",
     "课程进度.md",
     "未命名.base",
-    "项目/平衡小车/未命名.md",
-    "硬件/数电/数电笔记/绪论.md",
     "硬件/数电/attachments",
     "项目/平衡小车/attachments",
     "项目/平衡小车/笔记",
