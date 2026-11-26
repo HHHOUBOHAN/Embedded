@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/STM32/铁头山羊/定时器(老).md",
+                "file": "项目/平衡小车/平衡车.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定时器(老)"
+              "title": "平衡车"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/STM32/铁头山羊/定时器.md",
+                "file": "项目/平衡小车/平衡车.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定时器"
+              "title": "平衡车"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/STM32/铁头山羊/定时器.md",
+                "file": "项目/平衡小车/平衡车.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -212,29 +211,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7fd7750146d89b",
+  "active": "903babad9257cc05",
   "lastOpenFiles": [
-    "软件/STM32/铁头山羊/attachments/image-1795517113583.png",
-    "软件/STM32/铁头山羊/attachments/image-1795516617677.png",
-    "软件/STM32/铁头山羊/attachments/image-1795516393702.png",
-    "软件/STM32/铁头山羊/attachments/image-1795437447634.png",
-    "软件/STM32/铁头山羊/attachments/image-1795437221957.png",
-    "软件/STM32/铁头山羊/attachments/image-1795437011502.png",
-    "软件/STM32/铁头山羊/attachments/image-1795436769370.png",
-    "软件/STM32/铁头山羊/attachments/image-1795436193193.png",
-    "软件/STM32/铁头山羊/attachments/image-1795435150999.png",
-    "软件/STM32/铁头山羊/attachments/image-1795435081404.png",
-    "软件/STM32/铁头山羊/attachments/image-1795434498687.png",
-    "学习路线.md",
-    "软件/STM32/铁头山羊/定时器(老).md",
+    "软件/QT&LVGL/QT.md",
+    "软件/STM32/江协科技/FLASH.md",
+    "软件/STM32/江协科技/看门狗.md",
+    "软件/STM32/铁头山羊/中断.md",
+    "软件/STM32/铁头山羊/I2C.md",
+    "软件/STM32/铁头山羊/串口.md",
+    "软件/STM32/铁头山羊/学习要求.md",
+    "软件/STM32/铁头山羊/GPIO.md",
     "软件/STM32/铁头山羊/定时器.md",
+    "软件/STM32/铁头山羊/EXTI.md",
+    "软件/STM32/铁头山羊/定时器(老).md",
+    "项目/平衡小车/平衡车.md",
+    "项目/平衡小车/attachments/image-1795591577871.png",
+    "项目/平衡小车/attachments/image-1795590671383.png",
+    "项目/平衡小车/attachments/image-1795589115094.png",
+    "项目/平衡小车/attachments/image-1795588233972.png",
+    "项目/平衡小车/attachments/image-1795588164408.png",
+    "项目/平衡小车/attachments/image-1795588157009.png",
+    "项目/平衡小车/attachments/image-1795587383282.png",
+    "项目/平衡小车/attachments/image-1795587256269.png",
+    "软件/STM32/铁头山羊/attachments/image-1795525049863.png",
+    "软件/STM32/铁头山羊/attachments/image-1795524976442.png",
+    "学习路线.md",
     "项目/平衡小车/平衡小车注意事项.md",
     "软件/STM32/铁头山羊/时钟.md",
-    "项目/平衡小车/平衡车.md",
     "硬件/数电/期末备考/数电.md",
     "项目/工程化工作流/工作流.md",
-    "软件/QT&LVGL/QT.md",
-    "软件/STM32/江协科技/看门狗.md",
     "中间件/cmark/Cmark.md",
     "中间件/cmark/attachments",
     "软件/FreeRTOS/任务管理4.md",
@@ -244,14 +249,8 @@
     "软件/FreeRTOS/FreeRTOS内核移植2.md",
     "硬件/数电/数电复习.md",
     "软件/STM32/铁头山羊/要做的实验.md",
-    "软件/STM32/铁头山羊/EXTI.md",
-    "软件/STM32/铁头山羊/中断.md",
-    "软件/STM32/铁头山羊/串口.md",
     "软件/STM32/SPI.md",
-    "软件/STM32/铁头山羊/I2C.md",
     "软件/STM32/attachments",
-    "思考.md",
-    "课程进度.md",
     "未命名.base",
     "硬件/数电/attachments",
     "项目/平衡小车/attachments",
