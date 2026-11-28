@@ -11,14 +11,12 @@
             "id": "abab8ac80cc78af9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "项目/平衡小车/平衡车.md",
-                "mode": "source",
-                "source": false
+                "file": "项目/平衡小车/平衡车思维导图.md"
               },
-              "icon": "lucide-file",
-              "title": "平衡车"
+              "icon": "blocks",
+              "title": "平衡车思维导图"
             }
           },
           {
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/平衡小车/平衡车.md",
+                "file": "项目/平衡小车/平衡车思维导图.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,6 +211,18 @@
   },
   "active": "903babad9257cc05",
   "lastOpenFiles": [
+    "Paste image 1795836580530image.png",
+    "Paste image 1795836019527image.png",
+    "Paste image 1795835980116image.png",
+    "Paste image 1795835810366image.png",
+    "Paste image 1795835720140image.png",
+    "Paste image 1795835660975image.png",
+    "项目/平衡小车/平衡车.md",
+    "项目/平衡小车/平衡车思维导图.md",
+    "软件/QT&LVGL/未命名思维导图.md",
+    "Paste image 1795784560917image.png",
+    "Paste image 1795784464374image.png",
+    "Paste image 1795783957378image.png",
     "软件/QT&LVGL/QT.md",
     "软件/STM32/江协科技/FLASH.md",
     "软件/STM32/江协科技/看门狗.md",
@@ -224,17 +234,8 @@
     "软件/STM32/铁头山羊/定时器.md",
     "软件/STM32/铁头山羊/EXTI.md",
     "软件/STM32/铁头山羊/定时器(老).md",
-    "项目/平衡小车/平衡车.md",
     "项目/平衡小车/attachments/image-1795591577871.png",
     "项目/平衡小车/attachments/image-1795590671383.png",
-    "项目/平衡小车/attachments/image-1795589115094.png",
-    "项目/平衡小车/attachments/image-1795588233972.png",
-    "项目/平衡小车/attachments/image-1795588164408.png",
-    "项目/平衡小车/attachments/image-1795588157009.png",
-    "项目/平衡小车/attachments/image-1795587383282.png",
-    "项目/平衡小车/attachments/image-1795587256269.png",
-    "软件/STM32/铁头山羊/attachments/image-1795525049863.png",
-    "软件/STM32/铁头山羊/attachments/image-1795524976442.png",
     "学习路线.md",
     "项目/平衡小车/平衡小车注意事项.md",
     "软件/STM32/铁头山羊/时钟.md",
@@ -247,9 +248,6 @@
     "软件/FreeRTOS/C语言基础3.md",
     "软件/FreeRTOS/课程相关资料.md",
     "软件/FreeRTOS/FreeRTOS内核移植2.md",
-    "硬件/数电/数电复习.md",
-    "软件/STM32/铁头山羊/要做的实验.md",
-    "软件/STM32/SPI.md",
     "软件/STM32/attachments",
     "未命名.base",
     "硬件/数电/attachments",
