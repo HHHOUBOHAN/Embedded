@@ -11,12 +11,12 @@
             "id": "abab8ac80cc78af9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "mindmapview",
               "state": {
-                "file": "image/Pasted image 20261010135928.png"
+                "file": "项目/平衡小车/平衡车思维导图.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261010135928"
+              "icon": "blocks",
+              "title": "平衡车思维导图"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image/Pasted image 20261010135928.png",
+                "file": "项目/平衡小车/平衡车思维导图.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -209,23 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69cbe45415519a5a",
+  "active": "abab8ac80cc78af9",
   "lastOpenFiles": [
+    "assets/Paste image 1795846003735image.png",
+    "项目/平衡小车/平衡车.md",
+    "项目/平衡小车/平衡车思维导图.md",
+    "image/Pasted image 20260328110110.png",
+    "image/Pasted image 20260704212353.png",
+    "image/Pasted image 20260705125114.png",
+    "image/Pasted image 20260707221111.png",
+    "image/Pasted image 20260712152011.png",
+    "image/EMQX_Windows_SSH隧道故障排查与无窗口自启动解决文档 (1).docx",
+    "image/Pasted image 20260810112914.png",
+    "image/Pasted image 20260818214917.png",
+    "image/Pasted image 20260819181407.png",
+    "image/Pasted image 20260903215951.png",
     "assets",
     "中间件/cmark/Cmark.md",
-    "中间件/cmark/attachments/image-1795222994285.png",
-    "硬件/数电/attachments/image-1794744169130.png",
-    "硬件/数电/attachments/image-1795006661623.png",
-    "硬件/数电/attachments/image-1795007241225.png",
-    "硬件/数电/attachments/image-1795007254277.png",
-    "硬件/数电/期末备考/attachments/image-1793512033729.png",
     "项目/最小系统板/计划.md",
-    "项目/平衡小车/attachments/image-1794291561576.png",
-    "项目/平衡小车/attachments/image-1794313637527.png",
-    "项目/平衡小车/attachments/image-1795170067713.png",
-    "项目/平衡小车/attachments/image-1795238557509.png",
-    "项目/平衡小车/平衡车思维导图.md",
-    "项目/平衡小车/平衡车.md",
     "软件/QT&LVGL/未命名思维导图.md",
     "软件/QT&LVGL/QT.md",
     "软件/STM32/江协科技/FLASH.md",
@@ -254,8 +255,6 @@
     "项目/平衡小车/attachments",
     "项目/平衡小车/笔记",
     "硬件/电路",
-    "硬件/焊接 1",
-    "工程化工作流",
-    "markdown&LaTex"
+    "硬件/焊接 1"
   ]
 }
