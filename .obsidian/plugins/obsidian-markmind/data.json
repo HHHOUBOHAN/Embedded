@@ -15,5 +15,7 @@
   "showNodeBoard": true,
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
-  "uid": "00p01101300t01101200r01100t00s00o01300t"
+  "uid": "00p01101300t01101200r01100t00s00o01300t",
+  "setup": 1795845515921,
+  "pasteFolder": "assets"
 }

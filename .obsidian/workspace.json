@@ -11,12 +11,12 @@
             "id": "abab8ac80cc78af9",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "image",
               "state": {
-                "file": "项目/平衡小车/平衡车思维导图.md"
+                "file": "image/Pasted image 20261010135928.png"
               },
-              "icon": "blocks",
-              "title": "平衡车思维导图"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261010135928"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/平衡小车/平衡车思维导图.md",
+                "file": "image/Pasted image 20261010135928.png",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -209,20 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "903babad9257cc05",
+  "active": "69cbe45415519a5a",
   "lastOpenFiles": [
-    "Paste image 1795836580530image.png",
-    "Paste image 1795836019527image.png",
-    "Paste image 1795835980116image.png",
-    "Paste image 1795835810366image.png",
-    "Paste image 1795835720140image.png",
-    "Paste image 1795835660975image.png",
-    "项目/平衡小车/平衡车.md",
+    "assets",
+    "中间件/cmark/Cmark.md",
+    "中间件/cmark/attachments/image-1795222994285.png",
+    "硬件/数电/attachments/image-1794744169130.png",
+    "硬件/数电/attachments/image-1795006661623.png",
+    "硬件/数电/attachments/image-1795007241225.png",
+    "硬件/数电/attachments/image-1795007254277.png",
+    "硬件/数电/期末备考/attachments/image-1793512033729.png",
+    "项目/最小系统板/计划.md",
+    "项目/平衡小车/attachments/image-1794291561576.png",
+    "项目/平衡小车/attachments/image-1794313637527.png",
+    "项目/平衡小车/attachments/image-1795170067713.png",
+    "项目/平衡小车/attachments/image-1795238557509.png",
     "项目/平衡小车/平衡车思维导图.md",
+    "项目/平衡小车/平衡车.md",
     "软件/QT&LVGL/未命名思维导图.md",
-    "Paste image 1795784560917image.png",
-    "Paste image 1795784464374image.png",
-    "Paste image 1795783957378image.png",
     "软件/QT&LVGL/QT.md",
     "软件/STM32/江协科技/FLASH.md",
     "软件/STM32/江协科技/看门狗.md",
@@ -234,20 +238,16 @@
     "软件/STM32/铁头山羊/定时器.md",
     "软件/STM32/铁头山羊/EXTI.md",
     "软件/STM32/铁头山羊/定时器(老).md",
-    "项目/平衡小车/attachments/image-1795591577871.png",
-    "项目/平衡小车/attachments/image-1795590671383.png",
     "学习路线.md",
     "项目/平衡小车/平衡小车注意事项.md",
     "软件/STM32/铁头山羊/时钟.md",
     "硬件/数电/期末备考/数电.md",
     "项目/工程化工作流/工作流.md",
-    "中间件/cmark/Cmark.md",
     "中间件/cmark/attachments",
     "软件/FreeRTOS/任务管理4.md",
     "软件/FreeRTOS/FreeRTOS简介1.md",
     "软件/FreeRTOS/C语言基础3.md",
     "软件/FreeRTOS/课程相关资料.md",
-    "软件/FreeRTOS/FreeRTOS内核移植2.md",
     "软件/STM32/attachments",
     "未命名.base",
     "硬件/数电/attachments",
